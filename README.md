@@ -11,9 +11,9 @@
 
 # 💫 About Me
 
-I am a dedicated final-year BSc Computer Science student with a strong academic foundation and a passion for technology innovation. Having matriculated in 2021 with **4 distinctions**, I am now advancing my expertise in programming, cybersecurity, and database management.
+I am a dedicated final-year BSc Computer Science student with a strong academic foundation and a passion for technology innovation. Having matriculated in 2021 with **4 distinctions**, I am now advancing my expertise in programming, bioinformatics, and cybersecurity.
 
-I am a results-driven individual with excellent analytical skills, seeking opportunities to apply my growing technical knowledge in **cybersecurity**, **web development**, or **database administration**. My goal is to contribute to technological advancement while continuously expanding my skill set in the rapidly evolving field of computer science.
+I am a results-driven individual with excellent analytical skills, seeking opportunities to apply my growing technical knowledge in **bioinformatics software engineering**, or **cybersecurity analytics**. My goal is to contribute to technological advancement while continuously expanding my skill set in the rapidly evolving field of computer science and biology.
 
 </div>
 
