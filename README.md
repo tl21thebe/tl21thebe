@@ -48,6 +48,8 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 <img src="https://skillicons.dev/icons?i=react" height="60" alt="ReactJS" title="ReactJS" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL" title="SQL / MySQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" title="Docker" />
 
 <br><br>
 
