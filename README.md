@@ -43,7 +43,7 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react" height="60" alt="ReactJS" title="ReactJS" />
 &nbsp;&nbsp;&nbsp;
@@ -53,7 +53,7 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 
 <br><br>
 
-**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Docker**
+**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Docker**
 
 </div>
 
