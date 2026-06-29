@@ -51,7 +51,7 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 
 <br><br>
 
-**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL**
+**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Docker**
 
 </div>
 
