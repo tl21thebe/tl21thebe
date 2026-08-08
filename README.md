@@ -11,7 +11,7 @@
 
 # 💫 About Me
 
-I am a dedicated final-year BSc Computer Science student with a strong academic foundation and a passion for technology innovation. Having matriculated in 2021 with **4 distinctions**, I am now advancing my expertise in software development, and bioinformatics.
+I am a dedicated final-year BSc Computer Science student with a strong academic foundation and a passion for technology innovation. Having matriculated in 2021 with **4 distinctions**, I am now advancing my expertise in software development, and currently learning and growing my interest in bioinformatics.
 
 I am a results-driven individual with excellent analytical skills, seeking opportunities to apply my growing technical knowledge in **bioinformatics software engineering**. My goal is to contribute to technological advancement while continuously expanding my skill set in the rapidly evolving field of computer science and biology.
 
@@ -24,7 +24,7 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiego_mokwena)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiego-leroy-t-mokwena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiego-leroy-t-mokwena-5273413b3)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tiego_mokwena)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiego_mokwena)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tl21thebe@gmail.com)
@@ -43,17 +43,21 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java" />
 &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="Java" title="Python" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react" height="60" alt="ReactJS" title="ReactJS" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL" title="SQL / MySQL" />
 &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="SQL" title="PostgreSQL" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" title="Docker" />
 
 <br><br>
 
-**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Docker**
+**C / C++** &nbsp;&nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp;&nbsp; **Python** &nbsp;&nbsp;&nbsp;&nbsp; **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp; **ReactJS** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **PostgreSQL** &nbsp;&nbsp;&nbsp;&nbsp; **Docker**
 
 </div>
 
@@ -81,15 +85,12 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
