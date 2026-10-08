@@ -117,8 +117,6 @@ I am a results-driven individual with excellent analytical skills, seeking oppor
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tl21thebe&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
