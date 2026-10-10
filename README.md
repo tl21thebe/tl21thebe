@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=42&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Bioinformatics&descAlignY=64&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1a2e,70:16213e,100:1f3a5f&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=40&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Bioinformatics&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
 
 <a href="https://github.com/tl21thebe">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+BSc+Computer+Science+student;Building+reliable+full-stack+software;Growing+toward+bioinformatics+and+healthtech;Open+to+graduate+developer+roles" alt="Typing animation" />
@@ -11,14 +11,19 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiego-leroy-t-mokwena-5273413b3)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tl21thebe@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tl21thebe)
+![Profile Views](https://komarev.com/ghpvc/?username=tl21thebe&label=profile%20views&style=for-the-badge&color=0d1117&labelColor=1a1a2e&logo=github)
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:user.svg?color=%2358a6ff" height="26" alt="" />&nbsp;About Me</h2>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+that+is+built+well+and+applied+to+biology+and+health" alt="Tagline" />
+
+<br>
 
 I am a final-year BSc Computer Science student at the **University of Pretoria**, graduating in mid-2027. I matriculated in 2021 with **4 distinctions**, and I began university in Biological Sciences before moving into Computer Science. That path is why my interests sit where they do: software that is built well and applied to biology and health.
 
@@ -26,7 +31,7 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:crosshair.svg?color=%2358a6ff" height="26" alt="" />&nbsp;At a Glance</h2>
 
@@ -42,7 +47,40 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
+
+<h2 align="center"><img src="https://api.iconify.design/lucide:route.svg?color=%2358a6ff" height="26" alt="" />&nbsp;My Path</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:award.svg?color=%2358a6ff" height="34" alt="" /><br><br>
+      <b>2021</b><br>
+      <sub>Matriculated with 4 distinctions</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:microscope.svg?color=%2358a6ff" height="34" alt="" /><br><br>
+      <b>Biological Sciences</b><br>
+      <sub>First year at university, building a science foundation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%2358a6ff" height="34" alt="" /><br><br>
+      <b>Computer Science</b><br>
+      <sub>Switched to software, systems and databases</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:flag.svg?color=%2358a6ff" height="34" alt="" /><br><br>
+      <b>Mid-2027</b><br>
+      <sub>Expected graduation, ready for a developer role</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358a6ff" height="26" alt="" />&nbsp;What I Bring</h2>
 
@@ -75,14 +113,14 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:rocket.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Featured Project</h2>
 
 <div align="center">
 
 <a href="https://github.com/COS301-SE-2026/Uni-Textbook-Marketplace">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=COS301-SE-2026&repo=Uni-Textbook-Marketplace&theme=dark&hide_border=false" alt="Uni Textbook Marketplace" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=COS301-SE-2026&repo=Uni-Textbook-Marketplace&theme=tokyonight&hide_border=false" alt="Uni Textbook Marketplace" />
 </a>
 
 **Uni Textbook Marketplace** is my capstone project for the University of Pretoria's Software Engineering module (COS301). It is a team-built platform that helps university students buy and sell textbooks.
@@ -91,7 +129,7 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:layers.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Tech Stack</h2>
 
@@ -147,7 +185,7 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:compass.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Currently</h2>
 
@@ -161,18 +199,18 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358a6ff" height="26" alt="" />&nbsp;GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=tl21thebe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tl21thebe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=tl21thebe&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tl21thebe&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 <br>
 
@@ -180,7 +218,7 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 </div>
 
----
+<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Let's Connect</h2>
 
@@ -191,6 +229,6 @@ I am always happy to talk about software, bioinformatics, or opportunities.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiego-leroy-t-mokwena-5273413b3)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tl21thebe@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,35:16213e,70:1a1a2e,100:0d1117&height=140&section=footer&reversal=true" alt="" />
 
 </div>
