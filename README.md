@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Tiego%20Mokwena&fontSize=56&fontColor=58a6ff&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Bioinformatics&descAlignY=58&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=42&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Bioinformatics&descAlignY=64&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
 
 <a href="https://github.com/tl21thebe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Final-year+BSc+Computer+Science+student;Building+reliable+full-stack+software;Growing+toward+bioinformatics+and+healthtech;Open+to+graduate+developer+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+BSc+Computer+Science+student;Building+reliable+full-stack+software;Growing+toward+bioinformatics+and+healthtech;Open+to+graduate+developer+roles" alt="Typing animation" />
 </a>
 
 <br><br>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-I am a final-year BSc Computer Science student at the **University of Pretoria**, graduating in mid-2027. I matriculated in 2021 with **4 distinctions**, and I started university in Biological Sciences before moving into Computer Science. That mix is exactly where my interests sit today: software that is built well and applied to biology and health.
+I am a final-year BSc Computer Science student at the **University of Pretoria**, graduating in mid-2027. I matriculated in 2021 with **4 distinctions**, and I began university in Biological Sciences before moving into Computer Science. That path is why my interests sit where they do: software that is built well and applied to biology and health.
 
 I enjoy backend and full-stack work, from database design to APIs to clean user interfaces. I am looking for a **graduate developer role in South Africa** where I can ship real software, learn from experienced engineers, and grow toward **bioinformatics and healthtech**.
 
@@ -39,6 +39,39 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 | <img src="https://api.iconify.design/lucide:dna.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Exploring** | Bioinformatics, healthtech, data-driven biology |
 | <img src="https://api.iconify.design/lucide:languages.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Languages** | English, Afrikaans, Setswana, Sesotho, Sepedi |
 | <img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Status** | Open to graduate developer opportunities |
+
+</div>
+
+---
+
+<h2 align="center"><img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358a6ff" height="26" alt="" />&nbsp;What I Bring</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:server.svg?color=%2358a6ff" height="36" alt="" /><br><br>
+      <b>Backend Development</b><br>
+      <sub>REST APIs and services with NestJS and Node.js</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:database.svg?color=%2358a6ff" height="36" alt="" /><br><br>
+      <b>Database Design</b><br>
+      <sub>Schemas and queries in PostgreSQL and MySQL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%2358a6ff" height="36" alt="" /><br><br>
+      <b>Frontend Interfaces</b><br>
+      <sub>Responsive UIs with React, Next.js and Tailwind</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/lucide:users.svg?color=%2358a6ff" height="36" alt="" /><br><br>
+      <b>Team Delivery</b><br>
+      <sub>Collaborative development with Git and GitHub</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -64,7 +97,9 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 <div align="center">
 
-**Languages**
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,powershell&theme=dark" alt="Languages" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -74,28 +109,34 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Frontend**
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend" />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**Backend and Databases**
+### Backend and Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql&theme=dark" alt="Backend and Databases" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools and Workflow**
+### Tools and Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jest,postman,npm,netlify,prettier,notion,latex,md&theme=dark" alt="Tools and Workflow" />
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
@@ -126,11 +167,16 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.shion.dev/api?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tl21thebe&theme=dark&hide_border=false)
+<br>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tl21thebe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=tl21thebe&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tl21thebe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -145,6 +191,6 @@ I am always happy to talk about software, bioinformatics, or opportunities.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiego-leroy-t-mokwena-5273413b3)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tl21thebe@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" alt="" />
 
 </div>
