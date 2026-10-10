@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="44" viewBox="0 0 400 44" role="img" aria-label="Status: open to graduate developer roles">
+  <rect x="1" y="1" width="398" height="42" rx="21" fill="#0d1117" stroke="#238636" stroke-width="1.5"/>
+  <circle cx="30" cy="22" r="6" fill="#3fb950"/>
+  <circle cx="30" cy="22" r="6" fill="none" stroke="#3fb950" stroke-width="2">
+    <animate attributeName="r" values="6;16" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="52" y="27" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Open to graduate developer roles in South Africa</text>
+</svg>

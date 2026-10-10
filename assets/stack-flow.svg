@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-label="Animated diagram of a full-stack request flowing from client to API to database and back">
+  <defs>
+    <linearGradient id="boxGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="230" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- connector tracks -->
+  <g stroke="#30363d" stroke-width="2" stroke-dasharray="5 5">
+    <line x1="240" y1="96" x2="300" y2="96"><animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="96" x2="560" y2="96"><animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
+    <line x1="240" y1="124" x2="300" y2="124"><animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="124" x2="560" y2="124"><animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- packets: drawn before boxes so boxes hide them while "inside" -->
+  <g>
+    <circle cy="96" r="4.5" fill="#58a6ff"><animate attributeName="cx" values="40;760" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cy="96" r="4.5" fill="#58a6ff"><animate attributeName="cx" values="40;760" dur="4.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cy="96" r="4.5" fill="#58a6ff"><animate attributeName="cx" values="40;760" dur="4.5s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cy="124" r="4.5" fill="#a371f7"><animate attributeName="cx" values="760;40" dur="4.5s" begin="0.75s" repeatCount="indefinite"/></circle>
+    <circle cy="124" r="4.5" fill="#a371f7"><animate attributeName="cx" values="760;40" dur="4.5s" begin="2.25s" repeatCount="indefinite"/></circle>
+    <circle cy="124" r="4.5" fill="#a371f7"><animate attributeName="cx" values="760;40" dur="4.5s" begin="3.75s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- boxes -->
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <rect x="40" y="50" width="200" height="120" rx="10" fill="url(#boxGrad)" stroke="#58a6ff" stroke-width="1.5"/>
+    <text x="140" y="84" font-size="11" letter-spacing="2" fill="#58a6ff">CLIENT</text>
+    <text x="140" y="112" font-size="16" font-weight="700" fill="#e6edf3">Frontend</text>
+    <text x="140" y="136" font-size="12" fill="#8b949e">React, Next.js, Tailwind</text>
+    <text x="140" y="154" font-size="12" fill="#8b949e">TypeScript</text>
+
+    <rect x="300" y="50" width="200" height="120" rx="10" fill="url(#boxGrad)" stroke="#8c80fb" stroke-width="1.5"/>
+    <text x="400" y="84" font-size="11" letter-spacing="2" fill="#8c80fb">SERVER</text>
+    <text x="400" y="112" font-size="16" font-weight="700" fill="#e6edf3">API</text>
+    <text x="400" y="136" font-size="12" fill="#8b949e">NestJS, Node.js</text>
+    <text x="400" y="154" font-size="12" fill="#8b949e">REST, Jest tests</text>
+
+    <rect x="560" y="50" width="200" height="120" rx="10" fill="url(#boxGrad)" stroke="#a371f7" stroke-width="1.5"/>
+    <text x="660" y="84" font-size="11" letter-spacing="2" fill="#a371f7">DATA</text>
+    <text x="660" y="112" font-size="16" font-weight="700" fill="#e6edf3">Database</text>
+    <text x="660" y="136" font-size="12" fill="#8b949e">PostgreSQL, MySQL</text>
+    <text x="660" y="154" font-size="12" fill="#8b949e">Schemas and queries</text>
+  </g>
+
+  <!-- legend -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8b949e">
+    <circle cx="300" cy="206" r="4.5" fill="#58a6ff"/>
+    <text x="312" y="210">Request</text>
+    <circle cx="400" cy="206" r="4.5" fill="#a371f7"/>
+    <text x="412" y="210">Response</text>
+  </g>
+  <text x="400" y="32" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" letter-spacing="2" fill="#484f58">HOW THE LAYERS FIT TOGETHER</text>
+</svg>
