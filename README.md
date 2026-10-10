@@ -211,8 +211,6 @@ I started in Biological Sciences and moved into software, and I want to keep bot
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tl21thebe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution activity graph" />
-
 <img src="assets/divider.svg" width="800" alt="" />
 
 </div>
