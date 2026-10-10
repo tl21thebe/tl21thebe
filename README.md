@@ -13,9 +13,9 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tl21thebe)
 ![Profile Views](https://komarev.com/ghpvc/?username=tl21thebe&label=profile%20views&style=for-the-badge&color=0d1117&labelColor=1a1a2e&logo=github)
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:user.svg?color=%2358a6ff" height="26" alt="" />&nbsp;About Me</h2>
 
@@ -29,9 +29,9 @@ I am a final-year BSc Computer Science student at the **University of Pretoria**
 
 I enjoy backend and full-stack work, from database design to APIs to clean user interfaces. I am looking for a **graduate developer role in South Africa** where I can ship real software, learn from experienced engineers, and grow toward **bioinformatics and healthtech**.
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:crosshair.svg?color=%2358a6ff" height="26" alt="" />&nbsp;At a Glance</h2>
 
@@ -45,42 +45,19 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 | <img src="https://api.iconify.design/lucide:languages.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Languages** | English, Afrikaans, Setswana, Sesotho, Sepedi |
 | <img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Status** | Open to graduate developer opportunities |
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:route.svg?color=%2358a6ff" height="26" alt="" />&nbsp;My Path</h2>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://api.iconify.design/lucide:award.svg?color=%2358a6ff" height="34" alt="" /><br><br>
-      <b>2021</b><br>
-      <sub>Matriculated with 4 distinctions</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://api.iconify.design/lucide:microscope.svg?color=%2358a6ff" height="34" alt="" /><br><br>
-      <b>Biological Sciences</b><br>
-      <sub>First year at university, building a science foundation</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%2358a6ff" height="34" alt="" /><br><br>
-      <b>Computer Science</b><br>
-      <sub>Switched to software, systems and databases</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://api.iconify.design/lucide:flag.svg?color=%2358a6ff" height="34" alt="" /><br><br>
-      <b>Mid-2027</b><br>
-      <sub>Expected graduation, ready for a developer role</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/path-timeline.svg" width="800" alt="Timeline: matriculated in 2021 with 4 distinctions, first year in Biological Sciences, switched to Computer Science, expected graduation in mid-2027" />
+
+<img src="assets/divider.svg" width="800" alt="" />
 
 </div>
-
-<br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358a6ff" height="26" alt="" />&nbsp;What I Bring</h2>
 
@@ -111,9 +88,13 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
   </tr>
 </table>
 
-</div>
-
 <br>
+
+<img src="assets/stack-flow.svg" width="800" alt="Diagram of a full-stack application: a React and Next.js client sends requests to a NestJS API, which queries a PostgreSQL or MySQL database and returns responses" />
+
+<img src="assets/divider.svg" width="800" alt="" />
+
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:rocket.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Featured Project</h2>
 
@@ -127,9 +108,9 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 [![View Repository](https://img.shields.io/badge/view%20repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/COS301-SE-2026/Uni-Textbook-Marketplace)
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:layers.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Tech Stack</h2>
 
@@ -183,13 +164,29 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+<img src="assets/divider.svg" width="800" alt="" />
+
 </div>
 
-<br>
+<h2 align="center"><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Where Biology Meets Code</h2>
+
+<div align="center">
+
+<img src="assets/dna-helix.svg" width="800" alt="Animated DNA double helix" />
+
+I started in Biological Sciences and moved into software, and I want to keep both. My goal is to build dependable tools that help people work with biological and health data, and I am learning bioinformatics and applied Python to get there.
+
+<img src="assets/divider.svg" width="800" alt="" />
+
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:compass.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Currently</h2>
 
 <div align="center">
+
+<img src="assets/status-pill.svg" width="400" alt="Status: open to graduate developer roles in South Africa" />
+
+<br><br>
 
 | | |
 |:--|:--|
@@ -197,9 +194,9 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 | <img src="https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Learning** | Bioinformatics fundamentals and applied Python for biological data |
 | <img src="https://api.iconify.design/lucide:search.svg?color=%2358a6ff" height="18" alt="" />&nbsp;**Looking for** | Graduate developer roles in South Africa |
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358a6ff" height="26" alt="" />&nbsp;GitHub Stats</h2>
 
@@ -216,9 +213,9 @@ I enjoy backend and full-stack work, from database design to APIs to clean user 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tl21thebe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution activity graph" />
 
-</div>
+<img src="assets/divider.svg" width="800" alt="" />
 
-<br>
+</div>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%2358a6ff" height="26" alt="" />&nbsp;Let's Connect</h2>
 
