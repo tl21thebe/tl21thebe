@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1a2e,70:16213e,100:1f3a5f&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=40&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Bioinformatics&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
 
 <a href="https://github.com/tl21thebe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+BSc+Computer+Science+student;Building+reliable+full-stack+software;Growing+toward+bioinformatics+and+healthtech;Open+to+graduate+developer+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+BSc+Computer+Science+student;Building+reliable+Full-Stack+Software;Growing+toward+Bioinformatics+and+BioTech;Open+to+graduate+developer+roles" alt="Typing animation" />
 </a>
 
 <br><br>
@@ -21,13 +21,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+that+is+built+well+and+applied+to+biology+and+health" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+that+is+built+well+and+applied+to+Biology+and+Health" alt="Tagline" />
 
 <br>
 
 I am a final-year BSc Computer Science student at the **University of Pretoria**, graduating in mid-2027. I matriculated in 2021 with **4 distinctions**, and I began university in Biological Sciences before moving into Computer Science. That path is why my interests sit where they do: software that is built well and applied to biology and health.
 
-I enjoy backend and full-stack work, from database design to APIs to clean user interfaces. I am looking for a **graduate developer role in South Africa** where I can ship real software, learn from experienced engineers, and grow toward **bioinformatics and healthtech**.
+I enjoy backend and full-stack work, from database design to APIs to clean user interfaces. I am looking for a **graduate developer role in South Africa** where I can ship real software, learn from experienced engineers, and grow toward **Bioinformatics and BioTech**.
 
 <img src="assets/divider.svg" width="800" alt="" />
 
