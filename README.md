@@ -21,8 +21,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&width=520&lines=Clean+interfaces+and+reliable+software%2C+with+an+interest+in+Biology+and+Health" alt="Tagline" />
-
 <br>
 
 I am a final-year BSc Computer Science student at the **University of Pretoria**, graduating in mid-2027. I matriculated in 2021 with **4 distinctions**, and I began university in Biological Sciences before moving into Computer Science. That background is why I am curious about how software can support biology and health, although my project work so far has been in web development.
