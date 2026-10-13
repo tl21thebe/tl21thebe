@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1a2e,70:16213e,100:1f3a5f&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=40&desc=Software%20Developer%20%7C%20UI%20Engineering%20%7C%20Computer%20Science%20%7C%20Interested%20In%20%7C%20BioTech&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1a2e,70:16213e,100:1f3a5f&height=260&section=header&text=Tiego%20Mokwena&fontSize=60&fontColor=58a6ff&fontAlignY=40&desc=Software%20Developer%20%7C%20UI%20Engineering%20%7C%20Computer%20Science%20%7C%20Interested%20In%20BioTech&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" alt="Tiego Mokwena header" />
 
 <a href="https://github.com/tl21thebe">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+BSc+Computer+Science+student;Building+reliable+Full-Stack+Software;Passionate+about+UI+Engineering;Curious+about+Bioinformatics+and+BioTech;Open+to+graduate+developer+roles" alt="Typing animation" />
